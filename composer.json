@@ -1,6 +1,6 @@
 {
 	"name": "audinue/downloader-php",
-	"version": "1.0.0"
+	"version": "1.0.0",
 	"description": "Downloader for PHP.",
 	"require": {
 		"php": ">=5.4.0"
