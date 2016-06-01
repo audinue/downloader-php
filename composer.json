@@ -2,6 +2,7 @@
 	"name": "audinue/downloader-php",
 	"version": "1.0.0",
 	"description": "Downloader for PHP.",
+	"license": "MIT",
 	"require": {
 		"php": ">=5.4.0"
 	},
