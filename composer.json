@@ -1,0 +1,10 @@
+{
+	"name": "audinue/downloader-php",
+	"description": "Downloader for PHP.",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"audinue\\": "src/"
+	}
+}
